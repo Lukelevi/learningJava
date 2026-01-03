@@ -19,3 +19,12 @@
 # HashMap
 - A normal `HashMap` does not guarantee order, so when you print it, entries appear in random order.
 
+
+## Pushing to git ##
+- First, initialize the repo. created on Github.
+- Add everything to your repo.
+- Commit
+- Add remmote origin
+- Push to main branch
+- Push to origin main
+
