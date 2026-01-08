@@ -41,6 +41,7 @@ public class ChangeMaker {
     }
 
     public static void main(String[] args) {
+        // Formula for basic statements: Data type [nameOfDataType] = [methodName(including params)]
         Map<String, Integer> result = change(99900, 200065);
 
         System.out.println(result);
