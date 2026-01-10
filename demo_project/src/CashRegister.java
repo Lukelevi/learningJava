@@ -1,7 +1,7 @@
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class ChangeMaker {
+public class CashRegister {
 
     public static Map<String, Integer> change(int amountDue, int amountPaid) {
 
